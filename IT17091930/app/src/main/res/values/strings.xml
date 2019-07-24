@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">IT17091930</string>
+
+    <string-array name="fType">
+        <item>Action</item>
+        <item>Crime</item>
+        <item>Animation</item>
+    </string-array>
+
+    <string-array name="Dname">
+        <item>kamal</item>
+        <item>saman</item>
+        <item>nimal</item>
+
+    </string-array>
+
+    <string-array name="Aname">
+        <item>sumal</item>
+        <
+    </string-array>
+</resources>
